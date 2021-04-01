@@ -1,0 +1,11 @@
+﻿  Bullet.cpp
+  Flyable.cpp
+  Game.cpp
+  Lives.cpp
+  main.cpp
+  Meteorite.cpp
+C:\Dev\C++\PlaneGame\PlaneGame\Meteorite.cpp(51,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Plane.cpp
+  Utils.cpp
+  Generating Code...
+  PlaneGame.vcxproj -> C:\Dev\C++\PlaneGame\x64\Debug\PlaneGame.exe
